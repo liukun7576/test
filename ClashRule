@@ -1,6 +1,0 @@
-parsers: # array
-  - url:https://rss.jkl-sub.com/link/Wm6NgcrnJlQ53LOC?clash=1
-    yaml:
-      prepend-rules:
-        - 'DOMAIN-KEYWORD,emby,🍂 Domestic'
-
